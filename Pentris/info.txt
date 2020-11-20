@@ -1,0 +1,4 @@
+Implementation of a variation of the classic game Tetris(1984) in Python.
+This game uses Python 3 with the Pygame and the random libraries, thus you need them to run it.
+The gameplay works similarly to the classic but instead of using only tetrominos it uses all combinations from the square to the pentominos.
+The game is not perfect and has some bugs, be warned.
