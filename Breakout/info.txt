@@ -1,0 +1,4 @@
+Implementation of the classic game Breakout(1976) for Atari arcade in Python.
+This game uses Python 3 with the Pygame library, thus you need them both to run it.
+The gameplay works similarly to the classic but the levels are my own doing.
+The game is not perfect and has some bugs, be warned.
